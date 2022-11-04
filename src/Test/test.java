@@ -10,8 +10,6 @@ import Model.NhanModel;
 import View.NhanView;
 
 public class test {
-	private static double log2_10 = 3.321928095;
-
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
