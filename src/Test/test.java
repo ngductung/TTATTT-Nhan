@@ -4,6 +4,7 @@ import java.awt.EventQueue;
 import java.sql.Array;
 import java.util.Arrays;
 import java.util.Scanner;
+import java.util.stream.Stream;
 
 import Model.NhanModel;
 import View.NhanView;
@@ -22,9 +23,5 @@ public class test {
 				}
 			}
 		});
-//		int[] a = {1,2,3,4,5};
-//		String s = Arrays.toString(a);
-//		System.out.println(s);
-
 	}
 }
