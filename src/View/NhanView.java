@@ -1,7 +1,5 @@
 package View;
 
-import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -10,12 +8,9 @@ import Controller.ControllerKey;
 import Controller.NhanController;
 import Model.NhanModel;
 
-import java.awt.GridLayout;
-import java.util.Iterator;
 import java.util.stream.Stream;
 
 import javax.swing.JTextField;
-import javax.swing.JTextPane;
 import javax.swing.SwingConstants;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;

@@ -1,7 +1,5 @@
 package Model;
 
-import java.util.zip.ZipEntry;
-
 public class NhanModel {
 	private static double log2_10 = 3.321928095;
 

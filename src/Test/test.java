@@ -1,12 +1,6 @@
 package Test;
 
 import java.awt.EventQueue;
-import java.sql.Array;
-import java.util.Arrays;
-import java.util.Scanner;
-import java.util.stream.Stream;
-
-import Model.NhanModel;
 import View.NhanView;
 
 public class test {
